@@ -1,0 +1,78 @@
+body{
+  font-family: sans-serif;
+  margin:0;
+  background-color: #1a2c69;
+  
+}
+
+
+header{
+    background-color: #fcb100;
+    padding: 20px;
+    text-align: center;
+    border-bottom:3px solid blue;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:#1a2c69;
+    text-decoration:none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+
+h1{
+    color: #1a2c69;
+    margin-bottom:10px;
+}
+
+h2{
+    color:white;
+    margin-top:30px;
+    text-align: center;
+}
+
+p{
+    padding: 15px;
+    color:white;
+    line-height:1.5;
+}
+
+
+ul{
+    color:gold;
+    background-color: rgba(0,0,0,0.2);
+    padding:25px;
+    border-radius:10px;
+}
+
+
+img{
+    display:block;
+    margin: 20px auto;
+    border-radius:10px;
+}
+
+
+iframe{
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
+}
+
+/* футер */
+footer{
+    background-color:#fcb100;
+    text-align:center;
+    padding:10px;
+    margin-top:30px;
+}
+
+footer p{
+    color:#1a2c69;
+    margin:0;
+}
